@@ -13,3 +13,5 @@ The game is developed to play on windows based personal computers.
 ![potsurvive1](https://user-images.githubusercontent.com/115481947/210451056-699208d3-2004-44d3-8328-4be347d0311b.PNG)
 
 ![potsurvive3](https://user-images.githubusercontent.com/115481947/210451088-841aa3fb-b1c5-4b73-9c17-7403ec38904c.PNG)
+
+![potsurvive1](https://user-images.githubusercontent.com/115481947/210451328-b0e7f048-2392-4d5b-abf7-b6d3ebe3bfaa.JPG)
