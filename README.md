@@ -7,6 +7,7 @@ Unity 3D engine is used to create the front end design game play. The 2D objects
 ## Platform
 
 The game is developed to play on windows based personal computers.
+Link to download game - https://chakkagames.itch.io/potsurvive
 
 ## Screenshots
 
